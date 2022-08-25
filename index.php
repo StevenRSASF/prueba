@@ -1,6 +1,7 @@
 <?php
-    echo "Hola Mundo";
+    $msg= "Hola Mundo";
 
     $s = 3;
-    echo $s;
+    echo $s . " " . $msg;
+
 ?>
